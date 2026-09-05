@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "next_supplier_id": 2,
+  "next_purchase_id": 1,
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "a",
+      "phone": "555",
+      "address": "aa",
+      "notes": "aa",
+      "created_at": "2026-08-11T19:44:03.052372"
+    }
+  ],
+  "purchases": []
+}

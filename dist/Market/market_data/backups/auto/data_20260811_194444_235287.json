@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "next_supplier_id": 2,
+  "next_purchase_id": 2,
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "a",
+      "phone": "555",
+      "address": "aa",
+      "notes": "aa",
+      "created_at": "2026-08-11T19:44:03.052372"
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "supplier_id": 1,
+      "date": "2026-08-11",
+      "total": 1111111.0,
+      "description": "",
+      "items": [
+        {
+          "product_name": "aa",
+          "quantity": 1.0,
+          "unit": "1",
+          "price": 1111111.0
+        }
+      ],
+      "photos": [
+        "market_data\\photos\\supplier_1\\purchase_1\\1_images.jpg"
+      ],
+      "created_at": "2026-08-11T19:44:44.192901"
+    }
+  ]
+}
